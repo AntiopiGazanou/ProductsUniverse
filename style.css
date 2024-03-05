@@ -1,0 +1,21 @@
+header p{
+    background-color: #181F39;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  .logo{
+    border-radius: 10px;
+    width: 120px;
+    height: 120px;
+  }
+  
+  nav{
+    text-align: center;
+    font-size: 21px;
+    margin: 10px;
+    background-color: #53596E;
+    color: white;
+    border-radius: 10px;
+  }
