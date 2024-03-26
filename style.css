@@ -19,3 +19,30 @@ header p{
     color: white;
     border-radius: 10px;
   }
+  .container{
+    border-radius: 30px;
+    position: relative;
+    width: 300px; 
+    height: 400px; 
+    background-color:#181F39;
+    text-align: center;
+    
+  }
+
+  .text{
+    position: absolute;
+    top: 8%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    background-color: rgb(220, 217, 217);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+  .image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
